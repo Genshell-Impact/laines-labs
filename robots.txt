@@ -1,2 +1,2 @@
    User-agent: *
-   Disallow: /confidential.html
+   Disallow: /don't_look.html
